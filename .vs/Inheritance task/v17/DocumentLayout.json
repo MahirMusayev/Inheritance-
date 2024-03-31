@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\Inheritance task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D112A3E4-D2F3-4A36-8825-188D91F75025}|Inheritance task\\Inheritance task.csproj|c:\\users\\heydar\\desktop\\inheritance task\\inheritance task\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D112A3E4-D2F3-4A36-8825-188D91F75025}|Inheritance task\\Inheritance task.csproj|solutionrelative:inheritance task\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D112A3E4-D2F3-4A36-8825-188D91F75025}|Inheritance task\\Inheritance task.csproj|c:\\users\\heydar\\desktop\\inheritance task\\inheritance task\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D112A3E4-D2F3-4A36-8825-188D91F75025}|Inheritance task\\Inheritance task.csproj|solutionrelative:inheritance task\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D112A3E4-D2F3-4A36-8825-188D91F75025}|Inheritance task\\Inheritance task.csproj|c:\\users\\heydar\\desktop\\inheritance task\\inheritance task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D112A3E4-D2F3-4A36-8825-188D91F75025}|Inheritance task\\Inheritance task.csproj|solutionrelative:inheritance task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D112A3E4-D2F3-4A36-8825-188D91F75025}|Inheritance task\\Inheritance task.csproj|c:\\users\\heydar\\desktop\\inheritance task\\inheritance task\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D112A3E4-D2F3-4A36-8825-188D91F75025}|Inheritance task\\Inheritance task.csproj|solutionrelative:inheritance task\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Inheritance task\\Inheritance task\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance task\\Program.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Inheritance task\\Inheritance task\\Program.cs",
+              "RelativeToolTip": "Inheritance task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T17:45:09.491Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Inheritance task\\Inheritance task\\Laptop.cs",
+              "RelativeDocumentMoniker": "Inheritance task\\Laptop.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Inheritance task\\Inheritance task\\Laptop.cs",
+              "RelativeToolTip": "Inheritance task\\Laptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:02:38.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Inheritance task\\Inheritance task\\Device.cs",
+              "RelativeDocumentMoniker": "Inheritance task\\Device.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Inheritance task\\Inheritance task\\Device.cs",
+              "RelativeToolTip": "Inheritance task\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T17:46:15.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Inheritance task\\Inheritance task\\Mobile.cs",
+              "RelativeDocumentMoniker": "Inheritance task\\Mobile.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Inheritance task\\Inheritance task\\Mobile.cs",
+              "RelativeToolTip": "Inheritance task\\Mobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:10:03.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
